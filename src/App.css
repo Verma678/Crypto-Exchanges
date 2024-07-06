@@ -1,0 +1,8 @@
+.change{
+    display: flex;
+    gap: 4px;
+}
+
+.changeColor{
+    background-color: gray;
+}
